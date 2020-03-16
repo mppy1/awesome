@@ -5,7 +5,9 @@
 
 房产这一块，从选筹、买房、卖房、时机周期、仓位管理等各方面都有讲到，都是ditto自己的实践经历了。
 
-[股市、以及疫情后的楼市 ](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299833&idx=1&sn=c24bd0a1ef9d6b62b6f4c0aebbcc7678&chksm=f1704b9ac607c28c9200fd7fe0c841282fee8dd824f005f5c39f5c1b92a0928e57e19c53c4e1&scene=27#wechat_redirect
+[简评下楼市](https://mp.weixin.qq.com/s/6X5CGfvErhoeMrPKwcTRyA
+)    
+[股市、以及疫情后的楼市](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299833&idx=1&sn=c24bd0a1ef9d6b62b6f4c0aebbcc7678&chksm=f1704b9ac607c28c9200fd7fe0c841282fee8dd824f005f5c39f5c1b92a0928e57e19c53c4e1&scene=27#wechat_redirect
 )            
 [2020年楼市展望(下）](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299755&idx=1&sn=1ff346bb18829b8441e584722ee98d9a&chksm=f1704bc8c607c2de5e0130494b58940975ea651fbba155eac21e395d16ca826a744328545223&scene=27#wechat_redirect
 )            
@@ -288,28 +290,52 @@
 股票这一块是最近写的没太久，应该以前也是玩过，最近有兴趣来写的？其他是一些在投资中的避坑吧。
 
 
-[A股将遭遇黑色星期五](http://重要)        
-[倒在黎明前从来不是因为黑暗，而是因为寒冷](http://重要)        
-[股市的多空角力](http://重要)        
-[昨天我清了8成仓位](http://重要)        
-[‘光耀万物’上证指数之黄金分割](http://重要)        
-[A指数个数](http://重要)        
-[当你找到钥匙的那一刻，发现锁换了](http://重要)        
-[马云的新保险仍有的赚，可见保险有多黑](http://重要)        
-[聊一聊股市](http://重要)        
-[真有花掉10个亿的阶层么](http://重要)        
-[李笑来尴尬，罗振宇躺枪，楼市亦如此](http://重要)        
-[新发达国家的标识](http://重要)        
-[闲聊比特币](http://重要)        
-[通胀不为人知的盲区](http://重要)        
-[刷卡娶个女明星的方法](http://重要)        
-[阶层从未固化：债务是资产，现金不是！](http://重要)        
-[写在被封号前](http://重要)        
-[重磅突发：黄金交易所指定的黄金，居然也有假黄金！](http://重要)        
-[微信群让传销跨入无孔不入的新时代](http://重要)        
-[大国间只是摩擦、摩擦，射已成历史](http://重要)        
-[TAKE ME TO SHANGHAI 房价高地即文化高地](http://重要)        
-[古董穷三代，字画毁一生](http://重要)        
+[A股历史上的9次熔断](https://mp.weixin.qq.com/s/zvYrq2l2tOsKJmzemIGPgg
+)    
+[A股将遭遇黑色星期五](http://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299849&idx=1&sn=8fad279ff6349b8454e2b18f6b639357&chksm=f170746ac607fd7c4d75310222176831d6644e4dc1191f8fee7b05d26e99a79b7fe10ab86b51&scene=27#wechat_redirect
+)        
+[倒在黎明前从来不是因为黑暗，而是因为寒冷](http://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299845&idx=1&sn=db48df4cc08b0bcea997bcd946f66984&chksm=f1707466c607fd70444b6621c50407bf8eca0eb3093fb1017dc3920e38966a61d193cf447299&scene=27#wechat_redirect
+)        
+[股市的多空角力](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299829&idx=1&sn=d18406eada8083ac48618a82ff9db955&chksm=f1704b96c607c2807645b1f6269b76a4998e5bc5baa374699a67d355775571bcd1aa1fc60dc3&scene=27#wechat_redirect
+)        
+[昨天我清了8成仓位](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299793&idx=1&sn=fe819a6b46d47c2567cab65ee7af5f5f&chksm=f1704bb2c607c2a4af15da466d61e2535e810cf2d735ae270f1ee91707b09b5efee8ca4084c9&scene=27#wechat_redirect
+)        
+[‘光耀万物’上证指数之黄金分割](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299787&idx=1&sn=47f5cdf8a8e93f850cdc78b999b2f5b3&chksm=f1704ba8c607c2bec294ea938336673bbadef5a33e957347e1ccaef46eb0b786ab7d708395db&scene=27#wechat_redirect
+)        
+[A指数个数](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299692&idx=1&sn=c1ae984d71543b70638b17a403e40298&chksm=f1704b0fc607c219f8a2a260b6491b5947dff9d5dcccf9798a7f9f44071a9df0fbf5a45ee278&scene=27#wechat_redirect
+)        
+[当你找到钥匙的那一刻，发现锁换了](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299409&idx=1&sn=1b10c88f128237b4e74a1c1eb0307b7e&chksm=f1704a32c607c3241df8c2144dd9e57679aec13c2dab00cef902655b3eda33c077aab7b13857&scene=27#wechat_redirect
+)        
+[马云的新保险仍有的赚，可见保险有多黑](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299089&idx=1&sn=57211c2f4c01edbc5517f3f9bdae6ac8&chksm=f1704972c607c0644efb25b4ceb82ff1724f61757d657b52f611576df0a3f4d60ed752380b4a&scene=27#wechat_redirect
+)        
+[聊一聊股市](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299079&idx=1&sn=15b742ab581afbed95c8c2b4eb41b616&chksm=f1704964c607c072e88cb7dfafaa56fa032204e68e4d4163d3748291baef4f5c1c3623155129&scene=27#wechat_redirect
+)        
+[真有花掉10个亿的阶层么](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651299020&idx=1&sn=8192e8c1dd09e39425048e29b47e3c58&chksm=f17048afc607c1b9fa0e2edefc56364607bd1cc711448ee28a4ce0be2eed8473266dba8f7a06&scene=27#wechat_redirect
+)        
+[李笑来尴尬，罗振宇躺枪，楼市亦如此](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298986&idx=1&sn=ef28cd6cfea0f817b0f3990e139770df&chksm=f17048c9c607c1dfdd20941a8a9540a823d749821d751c90b933bc7a15311a1ecb5c4aea85a4&scene=27#wechat_redirect
+)        
+[新发达国家的标识](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298814&idx=1&sn=1a7e219bba44fd95392b7a8bd35c9162&chksm=f1704f9dc607c68b85156748b4e45550fd3701533bf83aedbc437abe56422741db32cbc0dbdc&scene=27#wechat_redirect
+)        
+[闲聊比特币](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298700&idx=1&sn=d0f5ae25050a27fe25e0ac1c31b94b28&chksm=f1704fefc607c6f9b6adbd7c7df481f432a16122a5b5a670a9837ee86884d9655ac7d21df176&scene=27#wechat_redirect
+)        
+[通胀不为人知的盲区](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298634&idx=1&sn=4ba3351ed43abaec03e1b49f8213a1c1&chksm=f1704f29c607c63fb20b91732a7d8e5099bd3d59431efd7f15c34fd707a236e17b47e596026c&scene=27#wechat_redirect
+)        
+[刷卡娶个女明星的方法](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298611&idx=1&sn=95b4371c841d5076a9583ea10287e4ac&chksm=f1704f50c607c646e609fac9e2fa1a02309872cc45f9775657d622066d67dee6e7c7966a5c8c&scene=27#wechat_redirect
+)        
+[阶层从未固化：债务是资产，现金不是！](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298319&idx=1&sn=f88fe7e0d7e0f29c7edbbd89e26c8164&chksm=f1704e6cc607c77a6cd2e2f514c6be8318cedef74561e24f018d4c8419cc4a726e7fe7336545&scene=27#wechat_redirect
+)        
+[写在被封号前](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298311&idx=1&sn=3af4aaefc1b10376be58dd1d356d1b0c&chksm=f1704e64c607c7722ecf841639caab69ea0810d86196682b8f652e31f618a2b3d0179430eea6&scene=27#wechat_redirect
+)        
+[重磅突发：黄金交易所指定的黄金，居然也有假黄金！](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298128&idx=1&sn=5a7a65f00afdb377c2c110a677299eff&chksm=f1704d33c607c42587157629a1545ad1f9a076ea6610e2516c387480cf5ce9acab29e90b0f32&scene=27#wechat_redirect
+)        
+[微信群让传销跨入无孔不入的新时代](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298098&idx=1&sn=ffbb93dda47a98577562ec4b6e9735b6&chksm=f1704d51c607c4477ba4d2dd9722407d0e877ea98dd5bb87b2f344ea08a7395b470a5459da4a&scene=27#wechat_redirect
+)        
+[大国间只是摩擦、摩擦，射已成历史](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651298061&idx=1&sn=e5b1ed0d815714bde6d02daf3955ea77&chksm=f1704d6ec607c478f6408b803ead462db678662805463dd557a0fbfffc3ec397d7307dc70944&scene=27#wechat_redirect
+)        
+[TAKE ME TO SHANGHAI 房价高地即文化高地](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651297933&idx=1&sn=0bcf19dab1f67c3c7568c9971153adb8&chksm=f1704ceec607c5f8e5d363d3d2cd1be0dfdf72acb0abe8cfdd91ffe4f614d5614861c8cd59fa&scene=27#wechat_redirect
+)        
+[古董穷三代，字画毁一生](https://mp.weixin.qq.com/s?__biz=MzI2NzEzNDIyMA==&mid=2651297924&idx=1&sn=114e3a8a5ecebb0456f3cac1e601f929&chksm=f1704ce7c607c5f1e7a0fd0c14cd55b68518f3002f73e0b1cf04549179e33a4da464fe510150&scene=27#wechat_redirect
+)        
 
 ### 人生健康安全
 
