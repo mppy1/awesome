@@ -2,8 +2,6 @@
 
 ![avatar](/screenshot/640.webp)
 
-![Alt](https://avatar.csdn.net/7/7/B/1_ralf_hx163com.jpg#pic_center)
-
 发现一个宝藏公众号：dittojeff思想空间  ，整理了一下他写的内容，
 按时间倒序来排
 
